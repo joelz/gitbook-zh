@@ -7,7 +7,10 @@
         "title": "Gitbook使用入门概述"
     },
      "plugins": [
-        // "-mathjax", "ga", "duoshuo"
+        "-mathjax", "ga", "duoshuo"
+    ],
+     "plugins": [
+        
     ],
     "pluginsConfig": {
         "fontSettings": {
@@ -32,7 +35,7 @@
             "Tony Deng": "http://tonydeng.github.io/"
         },
         "tail": {
-            "Gitbook使用入门": "http://tonydeng.github.io/gitbook-zh/gitbook-howtouse/",
+            "Gitbook使用入门": "http://tonydeng.github.io/gitbook-zh/gitbook-howtouse/"
         },
         "gitbook": false,
         "sharing": {

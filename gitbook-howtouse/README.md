@@ -17,10 +17,11 @@ GitBook支持输出多种文档格式，如：
 
 ## Gitbook项目地址
 
+- GitBook-cli Github地址：<https://github.com/GitbookIO/gitbook-cli>
 - GitBook项目官网：<http://www.gitbook.io>
 - GitBook Github地址：<https://github.com/GitbookIO/gitbook>
 
 ## 本项目地址
 
-- 仓库：https://github.com/tonydeng/gitbook-zh/tree/master/gitbook-howtouse
-- 在线阅读：http://tonydeng.github.io/gitbook-zh/gitbook-howtouse
+- 仓库：https://github.com/joelz/gitbook-zh/tree/master/gitbook-howtouse
+- 在线阅读：http://joelz.github.io/gitbook-howtouse
