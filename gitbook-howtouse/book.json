@@ -31,12 +31,6 @@
         "about": false,
         "issues": false,
         "contribute": false,
-        "sidebar": {
-            "Tony Deng": "http://tonydeng.github.io/"
-        },
-        "tail": {
-            "Gitbook使用入门": "http://tonydeng.github.io/gitbook-zh/gitbook-howtouse/"
-        },
         "gitbook": false,
         "sharing": {
             "google" : true,
